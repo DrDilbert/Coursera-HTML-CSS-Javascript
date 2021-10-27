@@ -45,6 +45,8 @@ a:hover {
 }
 
 .navbar-light .navbar-nav .nav-link {
-  color: #f5c476;
+  color: rgb(19, 42, 173);;
+  text-align: center;
+  background-color: rgb(231, 231, 201);
 }
 
